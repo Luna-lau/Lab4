@@ -20,7 +20,6 @@ public class CircleClass {
 	}
 	
 	public CircleClass(double radius) {
-		super();
 		this.radius = radius;
 	}
 	

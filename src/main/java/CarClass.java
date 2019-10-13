@@ -22,7 +22,6 @@ public class CarClass {
 	
 
 	public CarClass(int yearModel, String make) {
-		super();
 		this.yearModel = yearModel;
 		this.make = make;
 		this.speed=0;
